@@ -1,0 +1,26 @@
+#ferst{
+    color: rgb(29, 109, 129);
+    
+    background-color: rgb(170, 175, 207);
+    }
+    
+    #coop{
+    background-color: rgb(86, 39, 131);
+    
+    color: rgb(170, 170, 207);
+    }
+    
+    .bestparagraf{
+    background-color: rgb(23, 99, 170);
+    color: aqua;
+    size: 0.1px;
+    font-style: italic;
+    
+    }
+    
+    .best footer{
+    font-size: small;
+    color: rgb(58, 55, 77);
+    background: fixed;
+    
+    }
